@@ -9,3 +9,4 @@ Semestre Agosto Diciembre 2023
 - [Manejo de errores 2 ejemplo 1](access_to_db.py)
 - [Manejo de errores 2 ejemplo 2](consult_API.py)
 - [Manejo de errores 2 ejemplo 3](read_files.cpp)
+- [Principios de prevención de defectos](Principio_de_prevencion_de_defectos.pdf)
