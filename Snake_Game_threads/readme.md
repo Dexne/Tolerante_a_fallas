@@ -17,4 +17,4 @@ Ahora en esta actualización del código, se hace la implementación de hilos
 - Se utiliza un hilo para manejar la lógica del juego y otro para estar dibujando la interfaz del usuario.
 
   Aquí un video de demostración del código en ejecución:
-[Juego del snake](Snake_Game_threads/snake_v2.gif)
+[Juego del snake](https://github.com/Dexne/Tolerante_a_fallas/blob/main/Snake_Game_threads/snake_v2.gif)
