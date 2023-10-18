@@ -1,0 +1,13 @@
+Lista de nombres validos para probar:
+
+United States
+USA
+Canada
+Mexico
+United Kingdom
+Australia
+Brazil
+Germany
+France
+Spain
+Japan
