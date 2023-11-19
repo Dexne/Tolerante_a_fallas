@@ -18,3 +18,4 @@ Semestre Agosto Diciembre 2023
 - [Airflow](https://github.com/Dexne/Airflow_Fault_Tolerant/tree/main)
 - [Docker](https://github.com/Dexne/Tolerante_a_fallas/tree/main/Docker)
 - [Microservicios Docker y Node JS](https://github.com/Dexne/DockerNodeJS/tree/main)
+- [Masterin Chaos - A Netflix Guide to Microservices](https://github.com/Dexne/Tolerante_a_fallas/blob/main/Mastering_Chaos%E2%80%93A_Netflix_Guide_to_Microservices.pdf)
